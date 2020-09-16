@@ -21,6 +21,7 @@
 - [kuldeep_singh]
   [Archit Gupta](https://github.com/rarchitgupta)
 - [Abraham Prince](https://github.com/aprince02)
+- [Nancy Ritt}(https://github.com/nrittli)
 - [Jason Weyland] (https://github.com/JWeyland12)
 - [thejessicafelts](https://www.github.com/thejessicafelts)
 - [codedevbrad](https://github.com/codedevbrad)
